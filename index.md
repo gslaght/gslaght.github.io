@@ -9,6 +9,6 @@ Hi there. I've finally finished creating my Jekyll page. Here on this website yo
 
 - Fair Dealing *Best Practices*
 - Copyfraud by GLAMS
-- Copyright for Digital Projects (i.e., taching copyright to students making/studying digital objects)
-- OER Advocacy and *local Grunt Work*
+- Copyright for Digital Projects (i.e., teaching copyright to students making/studying digital objects)
+- OER Advocacy and the "whisper/yell binary"
 
