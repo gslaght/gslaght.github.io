@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Scholarly Communications & Copyright Outreach Librarian @ University of Toronto Libraries
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2011-2013`
+__University of Michigan__
+MSI, Information Policy; Archives & Records Management
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2008 - 2010`
+__Ryerson University__
+Certificate in Publishing
 
 ## Awards
 
