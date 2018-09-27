@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Test?
-excerpt: "What is the OER landscape at U of Toronto?"
+title: First Post
+excerpt: "Ive started a blog"
 modified: 
-tags: [uoft, oer]
+tags: [uoft, oer, blogging]
 comments: true
 category: blog
 ---
