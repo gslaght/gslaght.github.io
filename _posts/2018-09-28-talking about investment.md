@@ -11,7 +11,7 @@ category: blog
 
 <h2>Ways to talk about funding open education</h2>
 
-In honour of this week's big SPARC news (<a href="https://sparcopen.org/news/2018/open-textbooks-pilot-fy19/">Congress Renews $5 Million Open Textbook Pilot For Second Year</a>, I've decided to spend my first assignment ('Create an OER') writing a post about ways to talk about (public) funding for innovation, whether it be library-administered micro-grants on campus, or larger pools of funding from national or state/provincial governments or governmental agencies, and how how we talk about this funding may impact the students we serve. 
+In honour of this week's big SPARC news (<a href="https://sparcopen.org/news/2018/open-textbooks-pilot-fy19/">Congress Renews $5 Million Open Textbook Pilot For Second Year</a>), I've decided to spend my first assignment ('Create an OER') writing a post about ways to talk about (public) funding for innovation, whether it be library-administered micro-grants on campus, or larger pools of funding from national or state/provincial governments or governmental agencies, and how how we talk about this funding may impact the students we serve. 
 
 What do I mean by "ways to talk about" funding for innovation, and how does this relate to the interests of students? 
 
