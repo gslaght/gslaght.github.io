@@ -29,4 +29,4 @@ Which brings this post back to the news from SPARC this week.
 
 In Canada, the largest and most successful OER initiatve has been led by <a href="https://bccampus.ca/">BCcampus</a>. eCampus Ontario has been ramping up a similar model here in Ontario. 
  
-
+To be continued...
