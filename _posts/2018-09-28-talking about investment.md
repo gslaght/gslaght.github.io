@@ -17,7 +17,7 @@ What do I mean by "ways to talk about" funding for innovation, and how does this
 
 One of the best books I've read recently is The Entrpreneurial State (2013), by Mariana Mazzucato.
 
-<img src="/images/entrepreneurial-state-cover.jpeg">
+<a href="http://www.worldcat.org/oclc/862712864"><img src="/images/entrepreneurial-state-cover.jpeg"></a>
 
 One of the many things the book is about is how the way most lay people and experts conceive of the role played by public investement in the economy, in research,  and in technology, is flawed. According to Mazzucato, one of the primary frames with which the apropriate role of public investment is framed is through the idea of "market failure." By this way of thinking, the optimal and appropriate role of public funding is to step in and fill gaps where the the incentives driving private investment break down or create distortions.
 
