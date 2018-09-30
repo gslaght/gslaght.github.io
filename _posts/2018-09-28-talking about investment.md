@@ -8,6 +8,16 @@ comments: true
 category: blog
 ---
 
+At the university of Toronto, OER suppprt has been has been principally led and coordinated by the the team at the <a href="http://onlinelearning.utoronto.ca/">Office of Online Learning Strategies</a>. You can see the list of projects that have been supported at UofT here. <link>
+
+Notable recent projects include:
+
+<ul>
+  <li>4 open modules:  Building Science Fundamentals, Heavy Equipment and Civil Engineering Operations, Planet Earth Online, and Scientific Analysis with R nd three Open Textbooks</li>
+  <li>3 open textbooks: Introduction to the History and Philosophy of Science, Understanding American Politics, and Learning and Teaching Qualitative Research in Ontario</li>
+</ul>  
+
+
 
 <h2>Ways to talk about funding open education</h2>
 
