@@ -8,20 +8,22 @@ comments: true
 category: blog
 ---
 
-At the university of Toronto, OER suppprt has been has been principally led and coordinated by the the team at the <a href="http://onlinelearning.utoronto.ca/">Office of Online Learning Strategies</a>. You can see the list of projects that have been supported at UofT here. <link>
+<h2>OERs at UofT</h2>
 
-Notable recent projects include:
+At the University of Toronto, OER suppprt has been has been principally led and coordinated by the the team at the <a href="http://onlinelearning.utoronto.ca/">Office of Online Learning Strategies</a>. You can see the list of projects that have been supported at UofT <a href="http://www.ocw.utoronto.ca/projects-at-uoft/">here</a>.
+
+Notable recently-supported projects include:
 
 <ul>
-  <li>4 open modules:  Building Science Fundamentals, Heavy Equipment and Civil Engineering Operations, Planet Earth Online, and Scientific Analysis with R nd three Open Textbooks</li>
-  <li>3 open textbooks: Introduction to the History and Philosophy of Science, Understanding American Politics, and Learning and Teaching Qualitative Research in Ontario</li>
+  <li>4 open modules:  <a href="http://edtech.engineering.utoronto.ca/project/building-science-fundamentals">Building Science Fundamentals</a>, <a href="http://edtech.engineering.utoronto.ca/project/introduction-heavy-civil-engineering-operations-and-equipment-management">Heavy Equipment and Civil Engineering Operations</a>, <a href="https://planetearth.utsc.utoronto.ca/">Planet Earth Online</a>, and <a href="http://rscidata.utoronto.ca/">Scientific Analysis with R</a>.</li>
+  <li>3 created open textbooks: <a href="http://hakobsandbox.openetext.utoronto.ca/">Introduction to the History and Philosophy of Science</a>, <a href="http://ryansandbox.openetext.utoronto.ca/">Understanding American Politics</a>, and <a href="http://qualitativeresearchontario.openetext.utoronto.ca/">Learning and Teaching Qualitative Research in Ontario</a>.</li>
 </ul>  
 
-
+Funding for the stewardship and creation of these projects across their iifecyle (from grant to publication) was in part provided by grants from eCampus Ontario, a non-for-profit organization funded by the government of Ontario established to fund and develop infrastructure for open education in the Province. Previously, open projects at UofT had been supported by funds from the Ontario Minstry of Training, Colleges, and Universities (MTCU).   
 
 <h2>Ways to talk about funding open education</h2>
 
-In honour of this week's big SPARC news (<a href="https://sparcopen.org/news/2018/open-textbooks-pilot-fy19/">Congress Renews $5 Million Open Textbook Pilot For Second Year</a>), I've decided to spend my first assignment ('Create an OER') writing a post about ways to talk about (public) funding for innovation, whether it be library-administered micro-grants on campus, or larger pools of funding from national or state/provincial governments or governmental agencies, and how how we talk about this funding may impact the students we serve. 
+That brings us to this week's big SPARC news: (<a href="https://sparcopen.org/news/2018/open-textbooks-pilot-fy19/">Congress Renews $5 Million Open Textbook Pilot For Second Year</a>), which has convinced me to spend the rest of my first assignment ('Create an OER') writing a post about ways to talk about (public) funding for innovation in education.  Whether it be via institutionally-funded micro-grants, the hiring and development of staff with expertise at institutions, or via larger pools of funding from national or state/provincial governments or governmental agencies, funding for open education can come from many places. What I'll argue briefly here i that how how we talk about this funding might have an impact on the students that it serves and one the success of open education as a *movement*. 
 
 What do I mean by "ways to talk about" funding for innovation, and how does this relate to the interests of students? 
 
