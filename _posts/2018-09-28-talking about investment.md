@@ -16,7 +16,7 @@ Notable recently-supported projects include:
 
 <ul>
   <li>4 open modules:  <a href="http://edtech.engineering.utoronto.ca/project/building-science-fundamentals">Building Science Fundamentals</a>, <a href="http://edtech.engineering.utoronto.ca/project/introduction-heavy-civil-engineering-operations-and-equipment-management">Heavy Equipment and Civil Engineering Operations</a>, <a href="https://planetearth.utsc.utoronto.ca/">Planet Earth Online</a>, and <a href="http://rscidata.utoronto.ca/">Scientific Analysis with R</a>.</li>
-  <li>3 created open textbooks: <a href="http://hakobsandbox.openetext.utoronto.ca/">Introduction to the History and Philosophy of Science</a>, <a href="http://ryansandbox.openetext.utoronto.ca/">Understanding American Politics</a>, and <a href="http://qualitativeresearchontario.openetext.utoronto.ca/">Learning and Teaching Qualitative Research in Ontario</a>.</li>
+  <li>3 open textbooks: <a href="http://hakobsandbox.openetext.utoronto.ca/">Introduction to the History and Philosophy of Science</a>, <a href="http://ryansandbox.openetext.utoronto.ca/">Understanding American Politics</a>, and <a href="http://qualitativeresearchontario.openetext.utoronto.ca/">Learning and Teaching Qualitative Research in Ontario</a>.</li>
 </ul>  
 
 Funding for the stewardship and creation of these projects across their iifecyle (from grant to publication) was in part provided by grants from eCampus Ontario, a non-for-profit organization funded by the government of Ontario established to fund and develop infrastructure for open education in the Province. Previously, open projects at UofT had been supported by funds from the Ontario Minstry of Training, Colleges, and Universities (MTCU).   
