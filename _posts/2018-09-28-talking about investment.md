@@ -44,3 +44,7 @@ In Canada, the largest and most successful OER initiatve has been led by <a href
 To be continued...
 
 <h3>References</h3>
+
+Mazzucato, Mariana. The entrepreneurial state: debunking public vs. private sector myths. London: Anthem Press, 2013.
+
+
