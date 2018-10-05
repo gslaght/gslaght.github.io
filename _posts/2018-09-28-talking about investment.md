@@ -35,7 +35,7 @@ One of the many things the book is about is how the way most lay people and expe
 
 <h2>How does this relate to OER?</h2> 
 
-Well, the market for textbooks is one such market failure. And grants to faculty to create OER address this failure directly in replicating the fee faculty might receive from a for-profit publisher for writing a textbook. But Mazzucato's argument goes a step further. She argues that what public investment actually does most powerfully is to set conditions for and expectations for innovative new markets and uses of technology which wouldn't exist otherwise, and that for-profit investment would never create.  
+Well, the market for textbooks is one such market failure. And grants to faculty to create OER address this failure directly in replicating the fee faculty might receive from a for-profit publisher for writing a textbook. But Mazzucato's argument goes a step further. She argues that what public investment actually does most powerfully is to set conditions for and expectations for innovative new markets and uses of technology which wouldn't exist otherwise, and that for-profit investment would never create. Risk-taking is not frequesntly associated with governments. However, Mazzucato stresses that the provate-sector in fact is most comfortable with low risk, or to put it more perjoratively, rent-seeking assets. And more boradly, the ways we measure the economy (growth, GDP, etc.) do a poor job for accounting for things that might reduce spending, increase efficiency, etc.  
 
 Which brings this post back to the news from SPARC this week. 
 
