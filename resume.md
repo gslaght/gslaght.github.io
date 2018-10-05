@@ -15,6 +15,10 @@ MSI, Information Policy; Archives & Records Management
 __Ryerson University__
 Certificate in Publishing
 
+`2001 - 2004`
+__Concordia University__
+Honours Bachelor of Arts, English Literatire; Minor in History
+
 ## Awards
 
 `2012`
